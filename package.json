@@ -17,8 +17,9 @@
     "unslider",
     "carousel"
   ],
-  "author": [
+  "authors": [
     "Visual Idiot <iam@visualidiot.com>"
+    "Stan Williams <Stan@websitedesign.trade>"
   ],
   "license": "WTFPL",
   "bugs": {
