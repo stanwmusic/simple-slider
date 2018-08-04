@@ -1,9 +1,10 @@
 {
   "name": "unslider",
-  "version": "2.0.3",
-  "homepage": "http://unslider.com",
+  "version": "2.0.4",
+  "homepage": "https://www.websitedesign.trade/simpleslider/",
   "authors": [
     "Visual Idiot <iam@visualidiot.com>"
+    "Stan Williams"<Stan@websitedesign.trade>"
   ],
   "description": "The simplest little slider.",
   "main": "src/js/unslider.js",
