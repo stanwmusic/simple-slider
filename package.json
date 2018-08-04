@@ -1,6 +1,6 @@
 {
-  "name": "unslider",
-  "version": "2.0.3",
+  "name": "simpleslider",
+  "version": "2.0.4",
   "description": "The simplest little slider.",
   "styles": [
     "dist/css/unslider.css",
@@ -9,7 +9,7 @@
   "main": "src/js/unslider.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idiot/unslider.git"
+    "url": "git+https://github.com/stanwmusic/simple-slider"
   },
   "keywords": [
     "slider",
@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/idiot/unslider/issues"
   },
-  "homepage": "https://github.com/idiot/unslider#readme",
+  "homepage": "https://github.com/stanwmusic/simple-slider/blob/master/readme.md",
   "dependencies": {
     "jquery": "^2.1.4"
   }
