@@ -4,7 +4,7 @@
   "homepage": "https://www.websitedesign.trade/simpleslider/",
   "authors": [
     "Visual Idiot <iam@visualidiot.com>"
-    "Stan Williams"<Stan@websitedesign.trade>"
+    "Stan Williams <Stan@websitedesign.trade>"
   ],
   "description": "The simplest little slider.",
   "main": "src/js/unslider.js",
