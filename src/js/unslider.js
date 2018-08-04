@@ -1,7 +1,9 @@
 /**
- *   Unslider
- *   version 2.0
+ *   Simpleslider
+ *   version 2.0.4
  *   by @idiot and friends
+ Forked and modified by "<Stan@websitedesign.trade>" 
+ Licensed under WTFPL  http://www.wtfpl.net/
  */
 
 (function(factory) {
@@ -72,7 +74,7 @@
 				next: '<a class="' + self._ + '-arrow next">Next</a>'
 			},
 
-			//  How should Unslider animate?
+			//  How should Simpleslider animate?
 			//  It can do one of the following types:
 			//  "fade": each slide fades in to each other
 			//  "horizontal": each slide moves from left to right
